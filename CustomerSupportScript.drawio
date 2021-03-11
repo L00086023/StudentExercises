@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T10:50:29.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" etag="Gn6R0AmZ_jTza-o1l9bU" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T08:16:16.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48" etag="7GDSJa68ywk0jcDgEhP_" version="14.4.6" type="github">
   <diagram id="DM9bzLAxxgltcUpwpXC7" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,27 +28,27 @@
         <mxCell id="4yBhDFMyqruRVCVulNQJ-15" value="YES" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4yBhDFMyqruRVCVulNQJ-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="331" y="520" as="sourcePoint" />
-            <mxPoint x="410" y="1055" as="targetPoint" />
+            <mxPoint x="390" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="glfFEV-y2ePTvhI2m1Fg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4yBhDFMyqruRVCVulNQJ-12">
+        <mxCell id="glfFEV-y2ePTvhI2m1Fg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="4yBhDFMyqruRVCVulNQJ-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1055" as="sourcePoint" />
+            <mxPoint x="390" y="1055" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-18" value="Can you open the &quot;lid&quot; on the printer and remove the jammed paper?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1025" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-21" value="Does the printer have a display screen?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="211" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-27" value="Is there a message being displayed on the screen?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1190" width="110" height="60" as="geometry" />
+          <mxGeometry x="390" y="1190" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-37" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4yBhDFMyqruRVCVulNQJ-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="650" as="sourcePoint" />
-            <mxPoint x="430" y="1220" as="targetPoint" />
+            <mxPoint x="390" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="4yBhDFMyqruRVCVulNQJ-2" edge="1">
@@ -62,18 +62,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-41" value="Is the device/equipment under warranty? Is there a warranty reference no?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="5" width="120" height="70" as="geometry" />
+          <mxGeometry x="80" y="5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-45" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="231" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5EtiJ--8cLb_hWuSMzZ3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4yBhDFMyqruRVCVulNQJ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-46" value="End Call" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-47" value="NO" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4yBhDFMyqruRVCVulNQJ-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="250" as="sourcePoint" />
-            <mxPoint x="390" y="40" as="targetPoint" />
+            <mxPoint x="380" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4yBhDFMyqruRVCVulNQJ-48" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
